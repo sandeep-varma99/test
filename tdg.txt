@@ -1,0 +1,4 @@
+arn:aws:dynamodb:us-east-1:748207441947:table/test/stream/2020-01-22T10:21:43.953
+arn:aws:es:us-east-1:748207441947:domain/testkibana
+arn:aws:dynamodb:us-east-1:748207441947:table/test
+w7DbgNlwvPHLLyXmuAF5hLKn

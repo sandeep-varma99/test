@@ -1,0 +1,6 @@
+{
+  "FirstName" : "Max"
+
+}
+
+amc_setup -H ba656e17-3a29-4f5f-b3e2-db787470e9ad---258124 node1

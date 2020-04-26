@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:get="http://xmlns.oracle.com/SoaApplication/GetRTIAccessToken/GetRTIAccessTokenBPELProcess">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <get:Request>
+         <get:grant_type>client_credentials</get:grant_type>
+         <get:scope>PfepApi</get:scope>
+         <get:client_id>GeImport</get:client_id>
+         <get:client_secret>tzNRGjGEuu</get:client_secret>
+      </get:Request>
+   </soapenv:Body>
+</soapenv:Envelope>
